@@ -19,7 +19,7 @@ To run the simulation locally, ensure you have Python 3.9+ installed.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/telecom-queuing-simulation.git](https://github.com/YourUsername/telecom-queuing-simulation.git)
+   git clone [https://github.com/AhmedAlkaik/telecom_queuing_simulation](https://github.com/AhmedAlkaik/telecom_queuing_simulation)
 
 Install the required mathematical dependencies:
 
